@@ -1,0 +1,1 @@
+This is the code used for my research 'Long Short Term Memory and Feedforward Artificial Neural Network for Flood Prediction'. I used three rain gauge data and one river gauge data for this analysis. I created the model so it takes three rainfall and the river water level data for past 15 days to predict the following day water level by sliding window method.
